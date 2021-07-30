@@ -21,7 +21,7 @@
 # 📙 Social Media
 
 - GitHub: [@JoKeRxTD](https://github.com/JoKeRxTD)
-- Discord Server: [Discord](https://discord.gg/Q6ZSW63Fpw)
+- Discord: [Discord](https://discord.com/users/116730818822537225)
 - Twitter: [@JoKeRxHD](https://twitter.com/JoKeRxHD)
 - Twitch: [@JoKeeRxHD](https://www.twitch.tv/jokeerxhd)
 - Spotify: [JoKeR](https://open.spotify.com/playlist/37i9dQZEVXcMUX15eu0oiv?si=34d7f562eb424e36)
