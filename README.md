@@ -1,6 +1,6 @@
 <details>
   <summary>🌐 About Me & Socials</summary>
-# 👋 Hi there I am JoKeR
+# 👋 Hi there I am Tom AKA JoKeR
 
 - 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
 - 🌱 I’m currently learning: Python
@@ -12,6 +12,8 @@
 # 🚧 Projects
 
 - [Mythbot Radio](https://www.mythbot.org)
+- [Equalizer Roleplay](https://www.egcforums.com)
+- [Discord Bot-Lists](http://dblists.ml)
 
 # 😄 Friends
 
@@ -30,13 +32,13 @@
 <details>
   <summary>✨ GitHub Stats</summary>
 
-  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=radical)](https://github.com/JoKeRxTD)
+  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
 
 </details>
 
 <details>
   <summary>🔥 GitHub Top langs </summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=radical)](https://github.com/JoKeRxTD)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=tokyonight)](https://github.com/JoKeRxTD)
 
 </details>
