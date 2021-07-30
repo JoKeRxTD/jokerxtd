@@ -1,3 +1,5 @@
+<details>
+  <summary>🌐 About Me & Socials</summary>
 # 👋 Hi there I am JoKeR
 
 - 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
@@ -26,14 +28,14 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>✨ GitHub Stats</summary>
 
   [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=radical)](https://github.com/JoKeRxTD)
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Top langs </summary>
+  <summary>🔥 GitHub Top langs </summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=radical)](https://github.com/JoKeRxTD)
 
