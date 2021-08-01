@@ -29,15 +29,14 @@
 </details>
 
 <details>
-  <summary>✨ GitHub Stats</summary>
-
-  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
-
-</details>
-
-<details>
   <summary>🔥 GitHub Top langs </summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=tokyonight)](https://github.com/JoKeRxTD)
 
 </details>
+
+<summary>✨ GitHub Stats</summary>
+
+[![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
+
+
