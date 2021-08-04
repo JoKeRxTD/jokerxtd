@@ -12,7 +12,7 @@
 
 - [Mythbot Radio](https://www.mythbot.org)
 - [Equalizer Roleplay](https://www.egcforums.com)
-- [Discord Bot-Lists](http://dblists.ml)
+- [Discord Bot-Lists](https://www.dbots-list.com)
 
 # 😄 Friends
 
