@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225)
+
 <details>
   <summary>🌐 About Me & Socials</summary>
 # 👋 Hi there I am Tom AKA JoKeR
