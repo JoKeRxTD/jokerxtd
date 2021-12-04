@@ -12,7 +12,10 @@
 # 🚧 Projects
 
 - [Mythbot Radio](https://www.mythbot.org)
+- [Portfolio](https://joker.is-a.dev)
+- [My Endpoints](https://api.mythbot.org)
 - [Equalizer Roleplay](https://www.egcforums.com)
+- [Voltic Development](https://voltic.thedev.id)
 - [Discord Bot-Lists](https://www.dbots-list.com)
 
 # 😄 Friends
@@ -31,11 +34,11 @@
 <details>
   <summary>🔥 GitHub Top langs </summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=tokyonight)](https://github.com/JoKeRxTD)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=onedark)](https://github.com/JoKeRxTD)
 
   <summary>✨ GitHub Stats</summary>
   
-  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
+  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=onedark)](https://github.com/JoKeRxTD)
 
 </details>
 
