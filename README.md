@@ -1,6 +1,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225)
 
-<details>
   <summary>🌐 About Me & Socials</summary>
 # 👋 Hi there I am Tom AKA JoKeR
 
@@ -28,17 +27,16 @@
 - Twitch: [@JoKeeRxHD](https://www.twitch.tv/jokeerxhd)
 - Spotify: [JoKeR](https://open.spotify.com/playlist/37i9dQZEVXcMUX15eu0oiv?si=34d7f562eb424e36)
 
-</details>
 
 <details>
   <summary>🔥 GitHub Top langs </summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=tokyonight)](https://github.com/JoKeRxTD)
 
+  <summary>✨ GitHub Stats</summary>
+  
+  [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
+
 </details>
-
-<summary>✨ GitHub Stats</summary>
-
-[![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/JoKeRxTD)
 
 
