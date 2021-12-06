@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225)
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/116730818822537225.png) -->
  
- # <summary>🌐 About Me & Socials</summary>
+# 🌐 About Me & Socials
 <summary>👋 Hi there I am Tom AKA JoKeR</summary>
 
 - 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
