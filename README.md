@@ -2,7 +2,7 @@
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/116730818822537225.png) -->
  
 # 🌐 About Me & Socials
-<summary>👋 Hi there I am Tom AKA JoKeR</summary>
+### 👋 Hi there I am Tom AKA JoKeR
 
 - 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
 - 🌱 I’m currently learning: Python
