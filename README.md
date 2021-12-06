@@ -33,15 +33,16 @@
 - Spotify: [JoKeR](https://open.spotify.com/playlist/37i9dQZEVXcMUX15eu0oiv?si=34d7f562eb424e36)
 
 
-<details>
-  <summary>🔥 GitHub Top langs </summary>
+# 🔥 GitHub Stats
+
+### 🔥GitHub Top langs 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=onedark)](https://github.com/JoKeRxTD)
 
-  <summary>✨ GitHub Stats</summary>
+### ✨ GitHub Stats
   
   [![Status](https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide_border=true&theme=onedark)](https://github.com/JoKeRxTD)
 
-</details>
+
 
 
