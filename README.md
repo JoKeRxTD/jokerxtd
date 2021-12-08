@@ -17,7 +17,7 @@
 - [My Endpoints](https://api.mythbot.org)
 - [Equalizer Roleplay](https://www.egcforums.com)
 - [Voltic Development](https://voltic.thedev.id)
-- [Discord Bot-Lists](https://www.dbots-list.com)
+- [Discord Bot-Lists](https://www.dscbots.xyz)
 
 # 😄 Friends
 
