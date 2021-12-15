@@ -5,7 +5,7 @@
 ### 👋 Hi there I am Tom AKA JoKeR
 
 - 🔭 I'm currently working: [DscBots](https://www.dscbots.xyz)
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Discord.JS & .eJS
 - 📫 Come join my [Discord Server](https://discord.gg/Q6ZSW63Fpw) to have a talk :)
 - ⚡ Fun fact: I play games and watch anime :)
 - 🌐 Check out my website at [Mythbot Radio](https://joker.is-a.dev)
