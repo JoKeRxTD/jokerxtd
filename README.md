@@ -4,11 +4,11 @@
 # 🌐 About Me & Socials
 ### 👋 Hi there I am Tom AKA JoKeR
 
-- 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
+- 🔭 I'm currently working: [DscBots](https://www.dscbots.xyz)
 - 🌱 I’m currently learning: Python
 - 📫 Come join my [Discord Server](https://discord.gg/Q6ZSW63Fpw) to have a talk :)
 - ⚡ Fun fact: I play games and watch anime :)
-- 🌐 Check out my website at [Mythbot Radio](https://www.mythbot.org)
+- 🌐 Check out my website at [Mythbot Radio](https://joker.is-a.dev)
 
 # 🚧 Projects
 
