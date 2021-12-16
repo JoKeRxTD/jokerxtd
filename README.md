@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Discord.JS & .eJS
 - 📫 Come join my [Discord Server](https://discord.gg/Q6ZSW63Fpw) to have a talk :)
 - ⚡ Fun fact: I play games and watch anime :)
-- 🌐 Check out my website at [Mythbot Radio](https://joker.is-a.dev)
+- 🌐 Check out my website at [Portfolio](https://joker.is-a.dev)
 
 # 🚧 Projects
 
