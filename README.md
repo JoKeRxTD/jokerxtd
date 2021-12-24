@@ -21,7 +21,6 @@
 
 # 😄 Friends
 
-- [PrivateGiles](https://github.com/PrivateGiles)
 - [TheRealConnor](https://github.com/Connor200024)
 
 # 📙 Social Media
