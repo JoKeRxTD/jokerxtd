@@ -1,13 +1,13 @@
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225) -->
-[![Discord Presence](https://discord.c99.nl/widget/theme-3/116730818822537225.png)](https://discord.com/users/116730818822537225)
+[![Discord Presence](https://discord.c99.nl/widget/theme-1/116730818822537225.png)](https://discord.com/users/116730818822537225)
  
 # 🌐 About Me & Socials
 ### 👋 Hi there I am Tom AKA JoKeR
 
-- 🔭 I'm currently working: [DscBots](https://www.dscbots.xyz)
-- 🌱 I’m currently learning: Discord.JS & .eJS
+- 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
+- 🌱 I’m currently learning: Next.js, Typescript & Vue 3
 - 📫 Come join my [Discord Server](https://discord.gg/Q6ZSW63Fpw) to have a talk :)
-- ⚡ Fun fact: I play games and watch anime :)
+- ⚡ Fun fact: I play games and watch random top 10 videos :)
 - 🌐 Check out my website at [Portfolio](https://joker.is-a.dev)
 
 # 🚧 Projects
@@ -22,6 +22,9 @@
 # 😄 Friends
 
 - [TheRealConnor](https://github.com/Connor200024)
+- [TheRealToxicDev](https://github.com/TheRealToxicDev)
+- [ZeroTwo36](https://github.com/zerotwo36)
+- [Stift007](https://github.com/Stift007)
 
 # 📙 Social Media
 
