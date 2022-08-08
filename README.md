@@ -1,5 +1,5 @@
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225) -->
-[![Discord Presence](https://discord.c99.nl/widget/theme-1/116730818822537225.png)](https://discord.com/users/116730818822537225)
+[![Discord Presence](https://discord.c99.nl/widget/theme-2/116730818822537225.png)](https://discord.com/users/116730818822537225)
  
 # 🌐 About Me & Socials
 ### 👋 Hi there I am Tom AKA JoKeR
