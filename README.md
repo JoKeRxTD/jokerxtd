@@ -4,27 +4,23 @@
 # 🌐 About Me & Socials
 ### 👋 Hi there I am Tom AKA JoKeR
 
-- 🔭 I'm currently working: [Mythbot Radio](https://www.mythbot.org)
-- 🌱 I’m currently learning: Next.js, Typescript & Vue 3
+- 🔭 I'm currently working: [Equalizer Roleplay](https://erpforums.xyz)
+- 🌱 I’m currently learning: Anything!
 - 📫 Come join my [Discord Server](https://discord.gg/Q6ZSW63Fpw) to have a talk :)
 - ⚡ Fun fact: I play games and watch random top 10 videos :)
-- 🌐 Check out my website at [Portfolio](https://joker.is-a.dev)
+- 🌐 Check out my website at [Portfolio](https://jokerdev.xyz)
 
 # 🚧 Projects
 
-- [Mythbot Radio](https://www.mythbot.org)
-- [Portfolio](https://joker.is-a.dev)
-- [My Endpoints](https://api.mythbot.org)
-- [Equalizer Roleplay](https://www.egcforums.com)
-- [Voltic Development](https://voltic.thedev.id)
-- [DscBots](https://www.dscbots.xyz)
+- [Equalizer Roleplay](https://erpforums.xyz)
+- [Portfolio](https://jokerdev.xyz)
+- [Voltic Development - [Discontinued]](https://voltic.thedev.id)
+- [Mythbot Radio - 9,000 Server : 1,700,000 Users [Discontinued]](https://www.mythbot.org)
+- [DscBots - [Discontinued]](https://www.dscbots.xyz)
 
 # 😄 Friends
 
-- [TheRealConnor](https://github.com/Connor200024)
-- [TheRealToxicDev](https://github.com/TheRealToxicDev)
-- [ZeroTwo36](https://github.com/zerotwo36)
-- [Stift007](https://github.com/Stift007)
+- I have no friends :(
 
 # 📙 Social Media
 
