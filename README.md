@@ -38,6 +38,10 @@ src="https://img.shields.io/twitch/status/jokeerxhd?logo=twitchsx&style=for-the-
 
 <a href="http://www.github.com/JoKeRxTD"><img src="https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="JoKeRxTD's GitHub stats" /></a>
 
+### 🔥GitHub Top langs
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=onedark)](https://github.com/JoKeRxTD)
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
