@@ -67,3 +67,7 @@ Full Stack Web Developer & Discord Bot Developer
     </a>
   </li>
 </ul>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jokerxtd/count.svg?"  />
+</div>
