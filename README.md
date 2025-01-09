@@ -8,7 +8,7 @@ Full Stack Web Developer & Discord Bot Developer
 
 * 🌍  Based in England (UK)
 * 🖥️  See my portfolio at [My Portfolio](https://tomdev.xyz)
-* ✉️  You can contact me at [contact@jokerdev.xyz](mailto:contact@tomdev.xyz)
+* ✉️  You can contact me at [contact@tomdev.xyz](mailto:contact@tomdev.xyz)
 * 🚀  Currently working on [Nodus Roleplay](https://discord.gg/nodus) / [tomdev.xyz](https://tomdev.xyz)
 * 🧠  Learning How to create a fully custom FiveM & RedM Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
@@ -18,7 +18,7 @@ Full Stack Web Developer & Discord Bot Developer
   <img src="https://img.shields.io/github/followers/JoKeRxTD?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
 </a>
 <a href="https://www.x.com/jokerxhd" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/jokerxhd?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"/>
+  <img src="https://img.shields.io/twitter/follow/jokeerxhd?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"/>
 </a>
 <a href="https://www.twitch.tv/jokeerxhd" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitch/status/jokeerxhd?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=181824&label=TWITCH+STATUS" />
@@ -45,9 +45,6 @@ Full Stack Web Developer & Discord Bot Developer
   <a href="http://www.github.com/JoKeRxTD">
     <img src="https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="JoKeRxTD's GitHub stats" />
   </a>
-  <a href="http://www.github.com/JoKeRxTD">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoKeRxTD&theme=onedark&hide_border=true&background=181824&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" alt="JoKeRxTD's GitHub stats" />
-  </a>
 </p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; margin-bottom: 1rem;">
   <a href="http://www.github.com/JoKeRxTD">
@@ -59,9 +56,6 @@ Full Stack Web Developer & Discord Bot Developer
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
   <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.buymeacoffee.com/vd_joker">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow. png" width="150"/>
-    </a>
     <a href="https://www.ko-fi.com/jokerxtd">
       <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
     </a>
