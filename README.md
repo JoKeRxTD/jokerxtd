@@ -8,8 +8,8 @@ Full Stack Web Developer & Discord Bot Developer
 
 * 🌍  Based in England (UK)
 * 🖥️  See my portfolio at [My Portfolio](https://tomdev.xyz)
-* ✉️  You can contact me at [contact@tomdev.xyz](mailto:contact@tomdev.xyz)
-* 🚀  Currently working on [Nodus Roleplay](https://discord.gg/nodus) / [tomdev.xyz](https://tomdev.xyz)
+* ✉️  You can contact me at [contact@tomdev.xyz](https://tomdev.xyz/contact)
+* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [tomdev.xyz](https://tomdev.xyz)
 * 🧠  Learning How to create a fully custom FiveM & RedM Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
